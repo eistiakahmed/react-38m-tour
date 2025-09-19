@@ -1,0 +1,25 @@
+.country{ 
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+
+.imgSize{ 
+  width: 330px;
+  height: 200px;
+}
+
+button{ 
+  /* width: 150px; */
+  margin-right: 20px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.countryVisited{ 
+  background-color: white;
+  color: black;
+  border: none;
+}
